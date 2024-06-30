@@ -3,6 +3,7 @@ import styled from "styled-components";
 import { useState } from "react";
 import UpperMenu from './components/UpperMenu';
 import HomePage from './components/HomePage';
+import BootomSection from './BootomSection';
 
 
 
@@ -13,6 +14,7 @@ const App = () => {
       {/* Top Menu section */}
       <UpperMenu />
       <HomePage />
+      <BootomSection />
     </div>
   )
 }

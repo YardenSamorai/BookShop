@@ -29,5 +29,7 @@ display: flex;
 align-items: center;
 background-color: #EDEBE7;
 height: 8rem;
-justify-content: space-evenly
+justify-content: space-evenly;
+box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1), 0px 6px 20px rgba(0, 0, 0, 0.1);
+
 `;
